@@ -1,0 +1,8 @@
+.env
+__pycache__/
+.venv/
+lambda_package/
+lambda_deployment.zip
+backups/
+.pytest_cache/
+docs/
