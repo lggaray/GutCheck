@@ -1,0 +1,5 @@
+# Pinned to the versions vendored in lambda_package/ (what runs in prod).
+openai==2.41.0
+pydantic==2.13.4
+python-dotenv==1.2.2
+# psycopg2-binary needed locally for setup_db.py only
